@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.3.1.0",
+        "changelog": "Lists every profile on Jellyfin 10.11.9 and later, where Jellyfin renamed the call the plugin used.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.3.1/atlas_0.3.1.0.zip",
+        "checksum": "04B3B5E97FBFA52A2A9B2E44E18B0CBA",
+        "timestamp": "2026-10-18T15:14:39Z"
+      },
+      {
         "version": "0.3.0.0",
         "changelog": "Who sees what, enforced on the server: per-profile rules for Requests, 4K, Auto-approve, Reading and its libraries, Get, Activity and Server. Seerr permissions are kept in step.",
         "targetAbi": "10.11.0.0",
