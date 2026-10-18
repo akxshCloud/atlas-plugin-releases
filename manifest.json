@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.2.1.0",
+        "changelog": "Finds Sonarr, Radarr and Prowlarr on this server even behind their login page, and names the app when a key is used on the wrong one.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.2.1/atlas_0.2.1.0.zip",
+        "checksum": "F27BF87C9F31E26F46A66D7BEFCC395A",
+        "timestamp": "2026-10-18T11:33:25Z"
+      },
+      {
         "version": "0.2.0.0",
         "changelog": "Service connections for admins: Seerr, Kavita, Sonarr, Radarr, Prowlarr, qBittorrent and the Atlas home layer, each tested live. Keys stay on the server and never come back out.",
         "targetAbi": "10.11.0.0",
