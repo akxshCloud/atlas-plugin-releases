@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.3.0.0",
+        "changelog": "Who sees what, enforced on the server: per-profile rules for Requests, 4K, Auto-approve, Reading and its libraries, Get, Activity and Server. Seerr permissions are kept in step.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.3.0/atlas_0.3.0.0.zip",
+        "checksum": "4641C5F7ECEF65CB7E57CFD26409E6B5",
+        "timestamp": "2026-10-18T12:12:05Z"
+      },
+      {
         "version": "0.2.1.0",
         "changelog": "Finds Sonarr, Radarr and Prowlarr on this server even behind their login page, and names the app when a key is used on the wrong one.",
         "targetAbi": "10.11.0.0",
