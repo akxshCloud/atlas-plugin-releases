@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.5.0.0",
+        "changelog": "Get: a title's releases as Radarr and Sonarr judge them, grabbing one, a show's gaps, what's missing, and searching for it.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.5.0/atlas_0.5.0.0.zip",
+        "checksum": "0703F28DA2DCF1DC60300F0E03A7ADB3",
+        "timestamp": "2026-10-19T16:58:18Z"
+      },
+      {
         "version": "0.4.1.0",
         "changelog": "A title read right after asking, cancelling or deciding shows it straight away.",
         "targetAbi": "10.11.0.0",
