@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.6.0.0",
+        "changelog": "Search every indexer (atlas-app #96): Prowlarr's search for the same film, season or episode, read by Radarr or Sonarr; a grab is pushed to them, so they judge it and import it. Api 6.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.6.0/atlas_0.6.0.0.zip",
+        "checksum": "84C2740F5F72BCAA9E6A287F1F988A08",
+        "timestamp": "2026-10-19T18:23:39Z"
+      },
+      {
         "version": "0.5.2.0",
         "changelog": "Get: Missing counts only other people's requests as asked; other films left out of a film's releases.",
         "targetAbi": "10.11.0.0",
