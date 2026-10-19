@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.5.1.0",
+        "changelog": "Get: releases for a film or season that isn't on the server yet, by its Radarr or Sonarr id.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.5.1/atlas_0.5.1.0.zip",
+        "checksum": "A3379273AD0E85C30CD9F24324D9B6A1",
+        "timestamp": "2026-10-19T17:00:35Z"
+      },
+      {
         "version": "0.5.0.0",
         "changelog": "Get: a title's releases as Radarr and Sonarr judge them, grabbing one, a show's gaps, what's missing, and searching for it.",
         "targetAbi": "10.11.0.0",
