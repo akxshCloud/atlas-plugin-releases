@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.4.0.0",
+        "changelog": "Requests (atlas-app#95): title pages for anything, one state per request, ask for films or seasons, cancel, approve and decline. API 4.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.4.0/atlas_0.4.0.0.zip",
+        "checksum": "E4C1891A8D8FDCE95F4BEEF782692425",
+        "timestamp": "2026-10-19T13:16:54Z"
+      },
+      {
         "version": "0.3.1.0",
         "changelog": "Lists every profile on Jellyfin 10.11.9 and later, where Jellyfin renamed the call the plugin used.",
         "targetAbi": "10.11.0.0",
