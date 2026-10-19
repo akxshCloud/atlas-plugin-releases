@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.4.1.0",
+        "changelog": "A title read right after asking, cancelling or deciding shows it straight away.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.4.1/atlas_0.4.1.0.zip",
+        "checksum": "B69C2097EF80B16C190385B379ED3153",
+        "timestamp": "2026-10-19T13:20:09Z"
+      },
+      {
         "version": "0.4.0.0",
         "changelog": "Requests (atlas-app#95): title pages for anything, one state per request, ask for films or seasons, cancel, approve and decline. API 4.",
         "targetAbi": "10.11.0.0",
