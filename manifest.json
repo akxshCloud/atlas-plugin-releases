@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.8.1.0",
+        "changelog": "Deleting a profile now also deletes the Kavita account Atlas made for it, and forgets its reading settings and access. A sweep clears anything left behind by profiles deleted earlier.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.8.1/atlas_0.8.1.0.zip",
+        "checksum": "9457D4E5C306EF5A212F521F872F229D",
+        "timestamp": "2026-10-20T20:34:15Z"
+      },
+      {
         "version": "0.8.0.0",
         "changelog": "Reading: the shelf, series, issues, pages fitted in memory, your place and reading settings, each profile as its own Kavita account (api 8).",
         "targetAbi": "10.11.0.0",
