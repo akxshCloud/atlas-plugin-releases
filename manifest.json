@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.8.0.0",
+        "changelog": "Reading: the shelf, series, issues, pages fitted in memory, your place and reading settings, each profile as its own Kavita account (api 8).",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.8.0/atlas_0.8.0.0.zip",
+        "checksum": "4B6B07F8BA317F0DF68E7C1AD00338D8",
+        "timestamp": "2026-10-20T15:54:32Z"
+      },
+      {
         "version": "0.7.0.0",
         "changelog": "Activity (Atlas app #97): what the server is downloading now and how each is doing, what's stuck and why, thirty days of history a page with who asked, and Find another for a stuck download. Get's grabs are noted so History can say who picked them in Atlas. Api 7.",
         "targetAbi": "10.11.0.0",
