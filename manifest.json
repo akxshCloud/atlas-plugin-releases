@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.7.0.0",
+        "changelog": "Activity (Atlas app #97): what the server is downloading now and how each is doing, what's stuck and why, thirty days of history a page with who asked, and Find another for a stuck download. Get's grabs are noted so History can say who picked them in Atlas. Api 7.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.7.0/atlas_0.7.0.0.zip",
+        "checksum": "CFF01AF642D4D836886E24D23FF4E967",
+        "timestamp": "2026-10-20T11:14:38Z"
+      },
+      {
         "version": "0.6.0.0",
         "changelog": "Search every indexer (atlas-app #96): Prowlarr's search for the same film, season or episode, read by Radarr or Sonarr; a grab is pushed to them, so they judge it and import it. Api 6.",
         "targetAbi": "10.11.0.0",
