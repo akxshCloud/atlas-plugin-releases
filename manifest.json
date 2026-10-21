@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.9.2.0",
+        "changelog": "Find: chapters counted by number and one upload of each (Comick listed 736 for Vagabond's 329); ComicVine's sections no longer run into a comic's words; a deleted profile's reading asks go with it.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.9.2/atlas_0.9.2.0.zip",
+        "checksum": "2BCCEDED8AF981989A232290BFE7CAEA",
+        "timestamp": "2026-10-21T11:05:31Z"
+      },
+      {
         "version": "0.9.1.0",
         "changelog": "Cancelling a request also stops Radarr or Sonarr looking: the film, or the seasons asked for, are unmonitored and their downloads removed, unless someone else still wants them or they're already here. Includes 0.9.0 (Find: search manga and comics, ask for one, follow it to the shelf).",
         "targetAbi": "10.11.0.0",
