@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.9.1.0",
+        "changelog": "Cancelling a request also stops Radarr or Sonarr looking: the film, or the seasons asked for, are unmonitored and their downloads removed, unless someone else still wants them or they're already here. Includes 0.9.0 (Find: search manga and comics, ask for one, follow it to the shelf).",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.9.1/atlas_0.9.1.0.zip",
+        "checksum": "A70A8A03C7A48A8F8D31A315BF626FA7",
+        "timestamp": "2026-10-21T10:33:37Z"
+      },
+      {
         "version": "0.9.0.0",
         "changelog": "Find (atlas-app #99): search manga (Suwayomi) and comics (Mylar3), ask for one, follow it to the shelf. Mylar3 and Suwayomi join the services. API 9.",
         "targetAbi": "10.11.0.0",
