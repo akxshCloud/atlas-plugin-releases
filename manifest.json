@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.10.0.0",
+        "changelog": "Server health (api 10): every check HealthWatch runs, indexers with Test and Reset, disks and logs, through the home layer with its own key (atlas-app #100)",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.10.0/atlas_0.10.0.0.zip",
+        "checksum": "2B1C00B69E0D9C395AA2E733E2DB0CBD",
+        "timestamp": "2026-10-22T08:21:42Z"
+      },
+      {
         "version": "0.9.2.0",
         "changelog": "Find: chapters counted by number and one upload of each (Comick listed 736 for Vagabond's 329); ComicVine's sections no longer run into a comic's words; a deleted profile's reading asks go with it.",
         "targetAbi": "10.11.0.0",
