@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.12.1.0",
+        "changelog": "Server: Reset now tests each indexer in backoff, which is what lets it back in; one whose test fails stays out and says why.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.12.1/atlas_0.12.1.0.zip",
+        "checksum": "5B8577E568C5D67872D56639DC0A8AEE",
+        "timestamp": "2026-10-23T14:16:37Z"
+      },
+      {
         "version": "0.12.0.0",
         "changelog": "Delete what you asked for (atlas-app#133): anyone with Requests deletes what they asked for and nobody else did; admins anything.",
         "targetAbi": "10.11.0.0",
