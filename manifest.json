@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.13.0.0",
+        "changelog": "A show's episodes still to come with the day each airs (any profile that can see the show), and deleting one episode: unwatched in Sonarr first, then its file, then Jellyfin forgets it. API 13.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.13.0/atlas_0.13.0.0.zip",
+        "checksum": "30DD13D9FBE83CA9C86869D26431B86F",
+        "timestamp": "2026-10-28T11:29:07Z"
+      },
+      {
         "version": "0.12.1.0",
         "changelog": "Server: Reset now tests each indexer in backoff, which is what lets it back in; one whose test fails stays out and says why.",
         "targetAbi": "10.11.0.0",
