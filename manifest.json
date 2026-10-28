@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.15.0.0",
+        "changelog": "Services launcher (atlas-app #102): Bazarr and FlareSolverr join the services, so Atlas lists and times them. Connections to localhost try 127.0.0.1 first, which takes about 2 s off every new connection to an IPv4-only service such as Mylar3.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.15.0/atlas_0.15.0.0.zip",
+        "checksum": "7303440F6D7C0AC1EA0DEE6401856A7C",
+        "timestamp": "2026-10-28T11:49:17Z"
+      },
+      {
         "version": "0.14.0.0",
         "changelog": "Alerts (atlas-app #101): the watchdog's history, one entry per thing that happened, with how it ended and whether it reached a phone; the push rules (a wait per kind, quiet hours by each device's clock); Leave it. Left-alone checks read as left in Health. Reset, Test, Start and Delete note who tapped.",
         "targetAbi": "10.11.0.0",
