@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.16.4.0",
+        "changelog": "Browse: a show's paired genres count towards both halves, a show with no episodes left isn't counted, and each tile in a tab leads with its own title.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.16.4/atlas_0.16.4.0.zip",
+        "checksum": "345396F8B1FB4B214119FAD6FF497A1A",
+        "timestamp": "2026-10-29T17:05:09Z"
+      },
+      {
         "version": "0.16.3.0",
         "changelog": "Clips try a title's next-best trailers when the best can't be fetched.",
         "targetAbi": "10.11.0.0",
