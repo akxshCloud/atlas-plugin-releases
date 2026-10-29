@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.16.3.0",
+        "changelog": "Clips try a title's next-best trailers when the best can't be fetched.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.16.3/atlas_0.16.3.0.zip",
+        "checksum": "C0C4F6A76B8122629D317D2DF3D94240",
+        "timestamp": "2026-10-29T12:18:51Z"
+      },
+      {
         "version": "0.16.2.0",
         "changelog": "Whole trailers are fetched in H.264 first, so Apple devices show the picture.",
         "targetAbi": "10.11.0.0",
