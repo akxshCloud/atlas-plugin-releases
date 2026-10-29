@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.16.1.0",
+        "changelog": "Trailer clips find Jellyfin's ffmpeg when its location is left to the system.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.16.1/atlas_0.16.1.0.zip",
+        "checksum": "B2A8C247BDE4BE7E0176ECC6F0834E54",
+        "timestamp": "2026-10-29T11:44:40Z"
+      },
+      {
         "version": "0.16.0.0",
         "changelog": "Trailer clips (the proper trailer, 30 s of picture with cards and black bars cut out) and the whole trailer for the player; Browse by genre, by country (where a title is from) and by mood (placed by Claude through a new Claude service). Api 15.",
         "targetAbi": "10.11.0.0",
