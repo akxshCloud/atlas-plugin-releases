@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.16.2.0",
+        "changelog": "Whole trailers are fetched in H.264 first, so Apple devices show the picture.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.16.2/atlas_0.16.2.0.zip",
+        "checksum": "C501B8C556F4E129E4AD7AE26B441EF2",
+        "timestamp": "2026-10-29T12:15:26Z"
+      },
+      {
         "version": "0.16.1.0",
         "changelog": "Trailer clips find Jellyfin's ffmpeg when its location is left to the system.",
         "targetAbi": "10.11.0.0",
