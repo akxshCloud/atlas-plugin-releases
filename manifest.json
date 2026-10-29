@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.16.0.0",
+        "changelog": "Trailer clips (the proper trailer, 30 s of picture with cards and black bars cut out) and the whole trailer for the player; Browse by genre, by country (where a title is from) and by mood (placed by Claude through a new Claude service). Api 15.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.16.0/atlas_0.16.0.0.zip",
+        "checksum": "9DF919CFB7F6BBA51118517482443D4C",
+        "timestamp": "2026-10-29T11:35:37Z"
+      },
+      {
         "version": "0.15.0.0",
         "changelog": "Services launcher (atlas-app #102): Bazarr and FlareSolverr join the services, so Atlas lists and times them. Connections to localhost try 127.0.0.1 first, which takes about 2 s off every new connection to an IPv4-only service such as Mylar3.",
         "targetAbi": "10.11.0.0",
