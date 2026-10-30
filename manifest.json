@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.17.2.0",
+        "changelog": "Ask Atlas checks each pick by its title, leaves out what you've finished unless you ask to see it again, and thinks a little more before answering.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.17.2/atlas_0.17.2.0.zip",
+        "checksum": "8E10EC1B8C11CFD37985188E07A5420A",
+        "timestamp": "2026-10-30T13:47:43Z"
+      },
+      {
         "version": "0.17.1.0",
         "changelog": "Ask Atlas's reasons are shorter and about the film; watchlist titles match within a year, with Radarr's record when Seerr's search misses one.",
         "targetAbi": "10.11.0.0",
