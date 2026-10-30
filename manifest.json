@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.17.0.0",
+        "changelog": "MyAnimeList scores for anime, each profile's Letterboxd watchlist, and Ask Atlas, all on api 16. Browse's moods and Ask run on Claude Haiku 5.5.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.17.0/atlas_0.17.0.0.zip",
+        "checksum": "B701590210AEADEED15DF5422826D3F6",
+        "timestamp": "2026-10-30T13:22:25Z"
+      },
+      {
         "version": "0.16.4.0",
         "changelog": "Browse: a show's paired genres count towards both halves, a show with no episodes left isn't counted, and each tile in a tab leads with its own title.",
         "targetAbi": "10.11.0.0",
