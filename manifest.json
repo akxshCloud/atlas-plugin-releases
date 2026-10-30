@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.18.0.0",
+        "changelog": "Ask Atlas only suggests what isn't on the server: daily picks (For you, Out lately, Coming soon, Your watchlist) made once a day when opened, and plain-words questions answered with titles checked in Seerr (api 17). Needs Seerr connected.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.18.0/atlas_0.18.0.0.zip",
+        "checksum": "C225DDD5273A3830CCF4C857A19C9E3F",
+        "timestamp": "2026-10-30T17:54:20Z"
+      },
+      {
         "version": "0.17.2.0",
         "changelog": "Ask Atlas checks each pick by its title, leaves out what you've finished unless you ask to see it again, and thinks a little more before answering.",
         "targetAbi": "10.11.0.0",
