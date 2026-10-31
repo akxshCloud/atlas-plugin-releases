@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.19.0.0",
+        "changelog": "Your year: every film and episode each person finishes is kept, deleted titles included (api 18). Watched, the watchlist and Ask leave out what you've seen.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.19.0/atlas_0.19.0.0.zip",
+        "checksum": "E265D3A65FC1437E5CF7397BA764053E",
+        "timestamp": "2026-10-31T13:19:15Z"
+      },
+      {
         "version": "0.18.0.0",
         "changelog": "Ask Atlas only suggests what isn't on the server: daily picks (For you, Out lately, Coming soon, Your watchlist) made once a day when opened, and plain-words questions answered with titles checked in Seerr (api 17). Needs Seerr connected.",
         "targetAbi": "10.11.0.0",
