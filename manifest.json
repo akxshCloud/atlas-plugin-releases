@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.20.0.0",
+        "changelog": "Ask Atlas is a conversation: it answers with a short line of its own, the day's picks keep being made if you leave the page, and taste comes only from what you watch, My list and ratings (no Letterboxd). API 19.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.20.0/atlas_0.20.0.0.zip",
+        "checksum": "D854A6F2578B6B90A54ED40D8FCC706A",
+        "timestamp": "2026-10-31T15:48:27Z"
+      },
+      {
         "version": "0.19.0.0",
         "changelog": "Your year: every film and episode each person finishes is kept, deleted titles included (api 18). Watched, the watchlist and Ask leave out what you've seen.",
         "targetAbi": "10.11.0.0",
