@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.21.4.0",
+        "changelog": "Books: reads qBittorrent 5's answer to an added torrent, files a finished book after a minute (and tries again for 15), and a book called exactly what you searched comes first.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.21.4/atlas_0.21.4.0.zip",
+        "checksum": "94CD6CDA443AE6B5836ADB5131A3EDAA",
+        "timestamp": "2026-11-09T16:15:36Z"
+      },
+      {
         "version": "0.21.3.0",
         "changelog": "Books: Get takes a Pirate Bay copy's magnet from Prowlarr's guid, so the EPUB a book's page shows is the one fetched.",
         "targetAbi": "10.11.0.0",
