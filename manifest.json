@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.21.8.0",
+        "changelog": "Books: Get answers at once and hands the book over in the background, so a slow phone connection can't fail it; each indexer gets 10 seconds to answer a copy search, so one slow site (LimeTorrents, 30 s a search since 8 Nov) no longer holds up a book's page.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.21.8/atlas_0.21.8.0.zip",
+        "checksum": "FBFB9E845819571F0E276D63E6DFC03B",
+        "timestamp": "2026-11-10T08:24:55Z"
+      },
+      {
         "version": "0.21.7.0",
         "changelog": "Books: a copy with no EPUB or PDF in it (an archive) is dropped at once for the next; the English edition's cover; descriptions without Markdown; a filed book shows as here whatever name Kavita shelves it under.",
         "targetAbi": "10.11.0.0",
