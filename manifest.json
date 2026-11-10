@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.21.6.0",
+        "changelog": "Books: a copy is the book asked for (its title stands alone in the name, never another language, a comic, a screenplay or someone else's book); original-title works show in English; a failed copy is followed by the next best, and a book still wanted is looked for again every 6 hours; a book in a subfolder of its download is filed.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.21.6/atlas_0.21.6.0.zip",
+        "checksum": "0B668E4B2ADADC864C5294EBE6CA9E1E",
+        "timestamp": "2026-11-10T04:28:22Z"
+      },
+      {
         "version": "0.21.5.0",
         "changelog": "Books: release names are matched with accents and HTML entities ignored, so an EPUB of an accented author (Bront\u00eb) beats a PDF.",
         "targetAbi": "10.11.0.0",
