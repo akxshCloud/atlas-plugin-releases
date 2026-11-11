@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.22.0.0",
+        "changelog": "Logo check: every film's and show's logo is read once by Claude (on grey, at 05:00 and after new titles); one naming a different title is replaced with another logo that reads right, or removed so the app shows the name.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.22.0/atlas_0.22.0.0.zip",
+        "checksum": "BC5A4003D831F2B510B803F3CE6632D0",
+        "timestamp": "2026-11-11T11:29:37Z"
+      },
+      {
         "version": "0.21.10.0",
         "changelog": "Reading: a page asked at or past its scan's width comes as WebP at full size, about a third of the bytes, so the Mac's long strip loads and zooms much faster on a slow line.",
         "targetAbi": "10.11.0.0",
