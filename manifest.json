@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/akxshCloud/atlas-plugin-releases/main/logo.png",
     "versions": [
       {
+        "version": "0.22.2.0",
+        "changelog": "Requests keep a title deleted for a bad copy while Radarr or Sonarr still want it. Upcoming shows only list episodes Sonarr will grab.",
+        "targetAbi": "10.11.0.0",
+        "sourceUrl": "https://github.com/akxshCloud/atlas-plugin-releases/releases/download/v0.22.2/atlas_0.22.2.0.zip",
+        "checksum": "F3649DDBBF297A4D67D91E096829E223",
+        "timestamp": "2026-11-24T03:22:24Z"
+      },
+      {
         "version": "0.22.1.0",
         "changelog": "Deleting a title whose file is in use no longer says done while it stays; leftovers can be deleted from their page. Upcoming episodes only list what Sonarr is monitoring, so an unmonitored season no longer reads as coming.",
         "targetAbi": "10.11.0.0",
